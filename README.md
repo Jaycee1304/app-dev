@@ -1,5 +1,6 @@
 # My favorite Series: 3 Body Problem
-![3 Body Problem Poster](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt1981677%2F&psig=AOvVaw0MiaTTjLz9An03IfJRX10W&ust=1761646685038000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOj957WTxJADFQAAAAAdAAAAABAE)
+![3 Body Problem Poster](<img width="450" height="630" alt="image" src="https://github.com/user-attachments/assets/400141f5-1101-4693-ac51-15af3abc7275" />
+)
 ## Overview
 **3 Body Problem** The series portrays a fictional past, present, and future wherein Earth encounters an alien civilization from a nearby system of three Sun-like stars orbiting one another, a representative example of the three-body problem in orbital mechanics.
 ## Why I like this series?
